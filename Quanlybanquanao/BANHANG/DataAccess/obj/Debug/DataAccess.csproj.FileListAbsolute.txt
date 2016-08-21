@@ -1,0 +1,72 @@
+D:\DuanC#\Utilities\DataAccess\bin\Debug\DataAccess.dll
+D:\DuanC#\Utilities\DataAccess\bin\Debug\DataAccess.pdb
+D:\DuanC#\Utilities\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DuanC#\Utilities\DataAccess\obj\Debug\DataAccess.dll
+D:\DuanC#\Utilities\DataAccess\obj\Debug\DataAccess.pdb
+D:\DuanC#\DataAccess\bin\Debug\DataAccess.dll
+D:\DuanC#\DataAccess\bin\Debug\DataAccess.pdb
+D:\DuanC#\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DuanC#\DataAccess\obj\Debug\DataAccess.dll
+D:\DuanC#\DataAccess\obj\Debug\DataAccess.pdb
+D:\DuanC#\DataAccess\bin\Debug\Utilities.dll
+D:\DuanC#\DataAccess\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+D:\DuanC#\DataAccess\bin\Debug\Utilities.pdb
+D:\Video_new\DataAccess\bin\Debug\DataAccess.dll
+D:\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+D:\Video_new\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Video_new\DataAccess\obj\Debug\DataAccess.dll
+D:\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\Video_new\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\Video_new\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Video_new\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\THANHMY\Desktop\Video_new\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\THANHMY\Desktop\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\THANHMY\Desktop\Video_new\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANHMY\Desktop\Video_new\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\THANHMY\Desktop\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+D:\DuAn\Video_new\DataAccess\bin\Debug\DataAccess.dll
+D:\DuAn\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+D:\DuAn\Video_new\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DuAn\Video_new\DataAccess\obj\Debug\DataAccess.dll
+D:\DuAn\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\QA06\Desktop\Video_new\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\QA06\Desktop\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\QA06\Desktop\Video_new\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\QA06\Desktop\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\QA06\Desktop\Video_new\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Educad\Video_new\DataAccess\bin\Debug\DataAccess.dll
+D:\Educad\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+D:\Educad\Video_new\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Educad\Video_new\DataAccess\obj\Debug\DataAccess.dll
+D:\Educad\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+D:\MY-QA\educad\Video_new\DataAccess\bin\Debug\DataAccess.dll
+D:\MY-QA\educad\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+D:\MY-QA\educad\Video_new\DataAccess\obj\Debug\DataAccess.dll
+D:\MY-QA\educad\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+D:\MY-QA\educad\Video_new\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Video moi\Video_new\DataAccess\bin\Debug\DataAccess.dll
+E:\Video moi\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+E:\Video moi\Video_new\DataAccess\obj\Debug\DataAccess.dll
+E:\Video moi\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+E:\Video moi\Video moi\Video_new\DataAccess\bin\Debug\DataAccess.dll
+E:\Video moi\Video moi\Video_new\DataAccess\bin\Debug\DataAccess.pdb
+E:\Video moi\Video moi\Video_new\DataAccess\obj\Debug\DataAccess.dll
+E:\Video moi\Video moi\Video_new\DataAccess\obj\Debug\DataAccess.pdb
+E:\Video moi\Video moi\Video_new\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\DuAn\Thuy\Source\DataAccess\bin\Debug\DataAccess.dll
+D:\DuAn\Thuy\Source\DataAccess\bin\Debug\DataAccess.pdb
+D:\DuAn\Thuy\Source\DataAccess\obj\Debug\DataAccess.dll
+D:\DuAn\Thuy\Source\DataAccess\obj\Debug\DataAccess.pdb
+D:\DuAn\Thuy\Source\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\QA06\Desktop\Source\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\QA06\Desktop\Source\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\QA06\Desktop\Source\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\QA06\Desktop\Source\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\QA06\Desktop\Source\DataAccess\obj\Debug\DataAccess.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\DataAccess\bin\Debug\DataAccess.dll
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\DataAccess\bin\Debug\DataAccess.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\DataAccess\obj\Debug\DataAccess.dll
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\DataAccess\obj\Debug\DataAccess.pdb

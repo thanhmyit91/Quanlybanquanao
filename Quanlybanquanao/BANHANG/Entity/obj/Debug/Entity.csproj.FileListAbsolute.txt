@@ -1,0 +1,14 @@
+D:\DuAn\Thuy\Source\BANHANG\Entity\bin\Debug\Entity.dll
+D:\DuAn\Thuy\Source\BANHANG\Entity\bin\Debug\Entity.pdb
+D:\DuAn\Thuy\Source\BANHANG\Entity\obj\Debug\Entity.dll
+D:\DuAn\Thuy\Source\BANHANG\Entity\obj\Debug\Entity.pdb
+C:\Users\QA06\Desktop\Source\BANHANG\Entity\bin\Debug\Entity.dll
+C:\Users\QA06\Desktop\Source\BANHANG\Entity\bin\Debug\Entity.pdb
+C:\Users\QA06\Desktop\Source\BANHANG\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\QA06\Desktop\Source\BANHANG\Entity\obj\Debug\Entity.dll
+C:\Users\QA06\Desktop\Source\BANHANG\Entity\obj\Debug\Entity.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Entity\bin\Debug\Entity.dll
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Entity\bin\Debug\Entity.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Entity\obj\Debug\Entity.dll
+D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Entity\obj\Debug\Entity.pdb
