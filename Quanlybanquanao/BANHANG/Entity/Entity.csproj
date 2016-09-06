@@ -42,9 +42,12 @@
   <ItemGroup>
     <Compile Include="CategoryOB.cs" />
     <Compile Include="ColorOB.cs" />
+    <Compile Include="ConfigOB.cs" />
     <Compile Include="CustomerOB.cs" />
     <Compile Include="ModelOB.cs" />
+    <Compile Include="ProductOB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserOB.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

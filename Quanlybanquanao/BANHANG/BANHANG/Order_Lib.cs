@@ -32,38 +32,38 @@ namespace BANHANG
             return strResult;
         }
 
-        public static bool checkPrice(int iPrice_Type, string strPrice_Product)
-        {
-            DataRow[] dataRows = Datacache.GetPriceCache().Select("Price_Type=" + iPrice_Type.ToString() + " AND Price_Product = '" + strPrice_Product +"'");
-            return dataRows.Count() > 0;
-        }
+        //public static bool checkPrice(int iPrice_Type, string strPrice_Product)
+        //{
+        //    DataRow[] dataRows = Datacache.GetPriceCache().Select("Price_Type=" + iPrice_Type.ToString() + " AND Price_Product = '" + strPrice_Product +"'");
+        //    return dataRows.Count() > 0;
+        //}
 
-        public static decimal getPrice(int iPrice_Type, string strPrice_Product)
-        {
-            DataRow row = Datacache.GetPriceCache().Select("Price_Type=" + iPrice_Type.ToString() + " AND Price_Product = '" + strPrice_Product + "'").FirstOrDefault();
-            decimal iPrice = 0;
-            decimal.TryParse(row["Price_Now"].ToString(), out iPrice);
-            return iPrice;
-        }
+        //public static decimal getPrice(int iPrice_Type, string strPrice_Product)
+        //{
+        //    DataRow row = Datacache.GetPriceCache().Select("Price_Type=" + iPrice_Type.ToString() + " AND Price_Product = '" + strPrice_Product + "'").FirstOrDefault();
+        //    decimal iPrice = 0;
+        //    decimal.TryParse(row["Price_Now"].ToString(), out iPrice);
+        //    return iPrice;
+        //}
 
-        public static bool checkProductQuantity(string strProductID,int iOrderQuantity)
-        {
-            bool result = false;
-            DataTable data=new DataTable();
-            object[] objKeywords = null;
-            objKeywords = new object[] { "@ProductID", strProductID};
-            data = ProductQuantityCtr.Select(objKeywords);
-            if (data.Rows.Count > 0)
-            {
-                int iQuantity = Convert.ToInt32(data.Rows[0]["Quantity"]);
-                result = iQuantity >= iOrderQuantity;
-            }
-            else
-            {
-                result = false;
-            }
-            return result;
-        }
+        //public static bool checkProductQuantity(string strProductID,int iOrderQuantity)
+        //{
+        //    bool result = false;
+        //    DataTable data=new DataTable();
+        //    object[] objKeywords = null;
+        //    objKeywords = new object[] { "@ProductID", strProductID};
+        //    data = ProductQuantityCtr.Select(objKeywords);
+        //    if (data.Rows.Count > 0)
+        //    {
+        //        int iQuantity = Convert.ToInt32(data.Rows[0]["Quantity"]);
+        //        result = iQuantity >= iOrderQuantity;
+        //    }
+        //    else
+        //    {
+        //        result = false;
+        //    }
+        //    return result;
+        //}
         
     }
 }
