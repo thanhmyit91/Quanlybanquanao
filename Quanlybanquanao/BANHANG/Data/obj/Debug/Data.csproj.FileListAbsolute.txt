@@ -35,3 +35,10 @@ D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Data\bin\Debug\Entity.pdb
 D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Data\obj\Debug\Data.dll
 D:\MY-LIENTHONG\LaptrinhCSDL\BANHANG\Data\obj\Debug\Data.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Data.dll
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Data.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Entity.dll
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Entity.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\Debug\Data.dll
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\Debug\Data.pdb
