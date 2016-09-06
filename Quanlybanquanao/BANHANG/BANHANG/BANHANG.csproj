@@ -11,7 +11,8 @@
     <RootNamespace>BANHANG</RootNamespace>
     <AssemblyName>BANHANG</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -51,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Datacache.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,8 +83,16 @@
     <Compile Include="frmModel.designer.cs">
       <DependentUpon>frmModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="LibCore.cs" />
+    <Compile Include="Order_Lib.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UCProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCProducts.designer.cs">
+      <DependentUpon>UCProducts.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frmCategory.resx">
       <DependentUpon>frmCategory.cs</DependentUpon>
     </EmbeddedResource>
@@ -105,6 +115,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UCProducts.resx">
+      <DependentUpon>UCProducts.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -120,6 +133,10 @@
     <None Include="Resources\Login.png" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{F02B9076-4F92-474E-BF90-0FE47438C251}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Data\Data.csproj">
       <Project>{E9908D6E-AABB-449A-85D8-AC055D48C86D}</Project>
       <Name>Data</Name>

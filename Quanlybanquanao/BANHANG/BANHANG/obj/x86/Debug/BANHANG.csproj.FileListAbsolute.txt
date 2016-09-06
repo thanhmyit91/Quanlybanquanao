@@ -131,3 +131,4 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmColor.resources
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmCustomer.resources
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmModel.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.UCProducts.resources
