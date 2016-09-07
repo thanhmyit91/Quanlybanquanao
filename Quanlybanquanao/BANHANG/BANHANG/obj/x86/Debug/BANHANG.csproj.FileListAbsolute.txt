@@ -138,3 +138,6 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\bin\Debug\DataAccess.dll
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\bin\Debug\CarlosAg.ExcelXmlWriter.dll
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\bin\Debug\DataAccess.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmUser.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmDoimatkhau.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmDoiPassword.resources

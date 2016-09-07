@@ -74,3 +74,4 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\DataAccess\
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\DataAccess\bin\Debug\DataAccess.pdb
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\DataAccess\obj\Debug\DataAccess.dll
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\DataAccess\obj\Debug\DataAccess.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

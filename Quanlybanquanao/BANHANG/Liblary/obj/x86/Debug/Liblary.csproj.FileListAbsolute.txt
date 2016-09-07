@@ -32,3 +32,4 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\bin\Debug\CarlosAg.ExcelXmlWriter.dll
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.Common.frmOrderIndex.resources
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.Common.ucOrderIndex.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.csprojResolveAssemblyReference.cache
