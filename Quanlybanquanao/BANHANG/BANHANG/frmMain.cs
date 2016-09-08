@@ -112,8 +112,8 @@ namespace BANHANG
 
         private void toolNguoidung_Click(object sender, EventArgs e)
         {
-            //frmUser frm = new frmUser();
-            //ShowForm(frm);
+            frmUser frm = new frmUser();
+            ShowForm(frm);
         }
 
         private void toolCategory_Click(object sender, EventArgs e)

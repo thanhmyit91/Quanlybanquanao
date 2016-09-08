@@ -189,3 +189,12 @@ E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\bin\Debug\Data.pdb
 E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\bin\Debug\Entity.pdb
 E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\bin\Debug\Liblary.pdb
 E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.pdb
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmConfig.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmCustomer_Use.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmInput.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmInputManage.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmOutput.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmOutputManage.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmSendType.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmSupplier.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmSupplier_Use.resources
