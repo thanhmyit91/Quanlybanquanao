@@ -90,16 +90,16 @@ namespace BANHANG
 
         private void toolDoimatkhau_Click(object sender, EventArgs e)
         {
-            //frmDoiPassword frm = new frmDoiPassword();
-            //frm.ShowDialog();
-            //frm.Close();
+            frmDoiPassword frm = new frmDoiPassword();
+            frm.ShowDialog();
+            frm.Close();
 
-            //bLogin = false;
-            //obUser = null;
-            //setLogin(null, null);
-            //frmLogin frmLG = new frmLogin();
-            //frmLG.FormClosed += new FormClosedEventHandler(setLogin);
-            //ShowForm(frmLG);
+            bLogin = false;
+            obUser = null;
+            setLogin(null, null);
+            frmLogin frmLG = new frmLogin();
+            frmLG.FormClosed += new FormClosedEventHandler(setLogin);
+            ShowForm(frmLG);
         }
 
         //hàm check phân quyền cho tất cả các form
@@ -130,14 +130,14 @@ namespace BANHANG
 
         private void toolConfig_Click(object sender, EventArgs e)
         {
-            //frmConfig frm = new frmConfig();
-            //ShowForm(frm);
+            frmConfig frm = new frmConfig();
+            ShowForm(frm);
         }
 
         private void toolSendType_Click(object sender, EventArgs e)
         {
-            //frmSendType frm = new frmSendType();
-            //ShowForm(frm);
+            frmSendType frm = new frmSendType();
+            ShowForm(frm);
         }
 
         private void toolModel_Click(object sender, EventArgs e)
@@ -160,62 +160,62 @@ namespace BANHANG
 
         private void toolSupplier_Click(object sender, EventArgs e)
         {
-            //frmSupplier frm = new frmSupplier();
-            //ShowForm(frm);
+            frmSupplier frm = new frmSupplier();
+            ShowForm(frm);
         }
 
         private void toolPriceType_Click(object sender, EventArgs e)
         {
-            //frmPriceType frm = new frmPriceType();
-            //ShowForm(frm);
+            frmPriceType frm = new frmPriceType();
+            ShowForm(frm);
         }
 
         private void toolPrice_Click(object sender, EventArgs e)
         {
-            //frmPrice frm = new frmPrice();
-            //ShowForm(frm);
+            frmPrice frm = new frmPrice();
+            ShowForm(frm);
         }
 
         private void toolPayment_Click(object sender, EventArgs e)
         {
-            //frmPaymentsManage frm = new frmPaymentsManage();
-            //ShowForm(frm);
+            frmPaymentsManage frm = new frmPaymentsManage();
+            ShowForm(frm);
         }
 
         private void toolOrderNew_Click(object sender, EventArgs e)
         {
-            //frmOrder frm = new frmOrder();
-            //ShowForm(frm);
+            frmOrder frm = new frmOrder();
+            ShowForm(frm);
         }
 
         private void toolOrderManage_Click(object sender, EventArgs e)
         {
-            //frmOrderManage frm = new frmOrderManage();
-            //ShowForm(frm);
+            frmOrderManage frm = new frmOrderManage();
+            ShowForm(frm);
         }
 
         private void toolInputNew_Click(object sender, EventArgs e)
         {
-            //frmInput frm = new frmInput();
-            //ShowForm(frm);
+            frmInput frm = new frmInput();
+            ShowForm(frm);
         }
 
         private void toolInpurManage_Click(object sender, EventArgs e)
         {
-            //frmInputManage frm = new frmInputManage();
-            //ShowForm(frm);
+            frmInputManage frm = new frmInputManage();
+            ShowForm(frm);
         }
 
         private void toolOutputNew_Click(object sender, EventArgs e)
         {
-            //frmOutput frm = new frmOutput();
-            //ShowForm(frm);
+            frmOutput frm = new frmOutput();
+            ShowForm(frm);
         }
 
         private void toolOutputManage_Click(object sender, EventArgs e)
         {
-            //frmOutputManage frm = new frmOutputManage();
-            //ShowForm(frm);
+            frmOutputManage frm = new frmOutputManage();
+            ShowForm(frm);
         }
 
 
