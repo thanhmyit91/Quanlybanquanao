@@ -47,6 +47,7 @@
     <Compile Include="ModelOB.cs" />
     <Compile Include="OrderDetailOB.cs" />
     <Compile Include="OrderOB.cs" />
+    <Compile Include="OutputOB.cs" />
     <Compile Include="PaymentsOB.cs" />
     <Compile Include="PriceTypeOB.cs" />
     <Compile Include="ProductOB.cs" />
