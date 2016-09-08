@@ -65,46 +65,46 @@ namespace BANHANG
         }
         #endregion 
 
-        //#region nạp SendType vào cache
-        //private static DataTable SendTypeCache = null;
-        //public static DataTable GetSendTypeCache()
-        //{
-        //    if (SendTypeCache == null)
-        //    {
-        //        DataTable data = new DataTable();
-        //        data = SendTypeCtr.Cache();
-        //        SendTypeCache = data;
-        //    }
-        //    return SendTypeCache;
-        //}
-        //#endregion 
+        #region nạp SendType vào cache
+        private static DataTable SendTypeCache = null;
+        public static DataTable GetSendTypeCache()
+        {
+            if (SendTypeCache == null)
+            {
+                DataTable data = new DataTable();
+                data = SendTypeCtr.Cache();
+                SendTypeCache = data;
+            }
+            return SendTypeCache;
+        }
+        #endregion
 
-        //#region nạp PriceType vào cache
-        //private static DataTable PriceTypeCache = null;
-        //public static DataTable GetPriceTypeCache()
-        //{
-        //    if (PriceTypeCache == null)
-        //    {
-        //        DataTable data = new DataTable();
-        //        data = PriceTypeCtr.Cache();
-        //        PriceTypeCache = data;
-        //    }
-        //    return PriceTypeCache;
-        //}
-        //#endregion 
-        //#region nạp Price vào cache
-        //private static DataTable PriceCache = null;
-        //public static DataTable GetPriceCache()
-        //{
-        //    if (PriceCache == null)
-        //    {
-        //        DataTable data = new DataTable();
-        //        data = PriceCtr.Cache();
-        //        PriceCache = data;
-        //    }
-        //    return PriceCache;
-        //}
-        //#endregion 
+        #region nạp PriceType vào cache
+        private static DataTable PriceTypeCache = null;
+        public static DataTable GetPriceTypeCache()
+        {
+            if (PriceTypeCache == null)
+            {
+                DataTable data = new DataTable();
+                data = PriceTypeCtr.Cache();
+                PriceTypeCache = data;
+            }
+            return PriceTypeCache;
+        }
+        #endregion
+        #region nạp Price vào cache
+        private static DataTable PriceCache = null;
+        public static DataTable GetPriceCache()
+        {
+            if (PriceCache == null)
+            {
+                DataTable data = new DataTable();
+                data = PriceCtr.Cache();
+                PriceCache = data;
+            }
+            return PriceCache;
+        }
+        #endregion 
 
         #region nạp Product vào cache
         private static DataTable ProductCache = null;
@@ -127,10 +127,10 @@ namespace BANHANG
             ColorCache = null;
             ConfigCache = null;
             ModelCache = null;
-            //SendTypeCache = null;
+            SendTypeCache = null;
             ProductCache = null;
-            //PriceTypeCache = null;
-            //PriceCache = null;
+            PriceTypeCache = null;
+            PriceCache = null;
         }
         #endregion
     }
