@@ -44,3 +44,12 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\De
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\Debug\Data.pdb
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\DataAccess.dll
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\DataAccess.pdb
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Data.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Data.pdb
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\DataAccess.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Entity.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\DataAccess.pdb
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\bin\Debug\Entity.pdb
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\Debug\Data.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Data\obj\Debug\Data.pdb

@@ -44,14 +44,19 @@
     <Compile Include="ColorOB.cs" />
     <Compile Include="ConfigOB.cs" />
     <Compile Include="CustomerOB.cs" />
+    <Compile Include="InputDetailOB.cs" />
+    <Compile Include="InputOB.cs" />
     <Compile Include="ModelOB.cs" />
     <Compile Include="OrderDetailOB.cs" />
     <Compile Include="OrderOB.cs" />
+    <Compile Include="OutputDetailOB.cs" />
     <Compile Include="OutputOB.cs" />
     <Compile Include="PaymentsOB.cs" />
     <Compile Include="PriceTypeOB.cs" />
     <Compile Include="ProductOB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SendTypeOB.cs" />
+    <Compile Include="SupplierOB.cs" />
     <Compile Include="UserOB.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

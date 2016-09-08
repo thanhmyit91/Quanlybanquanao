@@ -33,3 +33,13 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\bin
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.Common.frmOrderIndex.resources
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.Common.ucOrderIndex.resources
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.csprojResolveAssemblyReference.cache
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\bin\Debug\Liblary.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\bin\Debug\Liblary.pdb
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.csprojResolveAssemblyReference.cache
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.Common.frmOrderIndex.resources
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.Common.ucOrderIndex.resources
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.Properties.Resources.resources
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.csproj.GenerateResource.Cache
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Liblary\obj\x86\Debug\Liblary.pdb

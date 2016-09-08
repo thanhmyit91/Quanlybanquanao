@@ -836,11 +836,5 @@ namespace BANHANG
             //    grvOrderdetail.Rows[e.RowIndex].Cells[e.ColumnIndex].Value = 0;
             //}
         }
-
-        private void btnIn_Click(object sender, EventArgs e)
-        {
-            frmShowreport frm = new frmShowreport(OrderCtr.Inbanhang(obOrder.Order_ID));
-            frm.ShowDialog();
-        }
     }
 }

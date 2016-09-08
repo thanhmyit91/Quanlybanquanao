@@ -71,11 +71,23 @@
     <Compile Include="frmColor.designer.cs">
       <DependentUpon>frmColor.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfig.designer.cs">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmCustomer.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmCustomer.designer.cs">
       <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomer_Use.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer_Use.designer.cs">
+      <DependentUpon>frmCustomer_Use.cs</DependentUpon>
     </Compile>
     <Compile Include="frmDoimatkhau.cs">
       <SubType>Form</SubType>
@@ -88,6 +100,18 @@
     </Compile>
     <Compile Include="frmDoiPassword.designer.cs">
       <DependentUpon>frmDoiPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInput.designer.cs">
+      <DependentUpon>frmInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInputManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInputManage.designer.cs">
+      <DependentUpon>frmInputManage.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -107,27 +131,51 @@
     <Compile Include="frmModel.designer.cs">
       <DependentUpon>frmModel.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmOrder.cs" />
+    <Compile Include="frmOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmOrder.designer.cs">
       <DependentUpon>frmOrder.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmOrderManage.cs" />
+    <Compile Include="frmOrderManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmOrderManage.designer.cs">
       <DependentUpon>frmOrderManage.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPayments.cs" />
+    <Compile Include="frmOutput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutput.designer.cs">
+      <DependentUpon>frmOutput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOutputManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutputManage.designer.cs">
+      <DependentUpon>frmOutputManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmPayments.designer.cs">
       <DependentUpon>frmPayments.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPaymentsManage.cs" />
+    <Compile Include="frmPaymentsManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmPaymentsManage.designer.cs">
       <DependentUpon>frmPaymentsManage.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPrice.cs" />
+    <Compile Include="frmPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmPrice.designer.cs">
       <DependentUpon>frmPrice.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPriceType.cs" />
+    <Compile Include="frmPriceType.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmPriceType.designer.cs">
       <DependentUpon>frmPriceType.cs</DependentUpon>
     </Compile>
@@ -137,6 +185,22 @@
     <Compile Include="frmProduct.designer.cs">
       <DependentUpon>frmProduct.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSendType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSendType.designer.cs">
+      <DependentUpon>frmSendType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplier.designer.cs">
+      <DependentUpon>frmSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplier_Use.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplier_Use.Designer.cs" />
     <Compile Include="frmUser.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -159,14 +223,26 @@
     <EmbeddedResource Include="frmColor.resx">
       <DependentUpon>frmColor.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmConfig.resx">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmCustomer.resx">
       <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer_Use.resx">
+      <DependentUpon>frmCustomer_Use.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDoimatkhau.resx">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDoiPassword.resx">
       <DependentUpon>frmDoiPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInput.resx">
+      <DependentUpon>frmInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInputManage.resx">
+      <DependentUpon>frmInputManage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
@@ -183,6 +259,12 @@
     <EmbeddedResource Include="frmOrderManage.resx">
       <DependentUpon>frmOrderManage.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmOutput.resx">
+      <DependentUpon>frmOutput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOutputManage.resx">
+      <DependentUpon>frmOutputManage.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmPayments.resx">
       <DependentUpon>frmPayments.cs</DependentUpon>
     </EmbeddedResource>
@@ -198,6 +280,13 @@
     <EmbeddedResource Include="frmProduct.resx">
       <DependentUpon>frmProduct.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmSendType.resx">
+      <DependentUpon>frmSendType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplier.resx">
+      <DependentUpon>frmSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplier_Use.resx" />
     <EmbeddedResource Include="frmUser.resx">
       <DependentUpon>frmUser.cs</DependentUpon>
     </EmbeddedResource>

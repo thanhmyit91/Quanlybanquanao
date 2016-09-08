@@ -16,3 +16,7 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\bin\
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\bin\Debug\Entity.pdb
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\obj\Debug\Entity.dll
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\obj\Debug\Entity.pdb
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\obj\Debug\Entity.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\obj\Debug\Entity.pdb
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\bin\Debug\Entity.dll
+E:\quanly\Quanlybanquanao\Quanlybanquanao\BANHANG\Entity\bin\Debug\Entity.pdb
