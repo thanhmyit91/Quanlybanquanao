@@ -46,6 +46,11 @@
     <Compile Include="ConfigCtr.cs" />
     <Compile Include="CustomerCtr.cs" />
     <Compile Include="ModelCtr.cs" />
+    <Compile Include="OrderCtr.cs" />
+    <Compile Include="OrderDetailCtr.cs" />
+    <Compile Include="PaymentsCtr.cs" />
+    <Compile Include="PriceCtr.cs" />
+    <Compile Include="PriceTypeCtr.cs" />
     <Compile Include="ProductCtr.cs" />
     <Compile Include="ProductQuantityCtr.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

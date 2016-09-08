@@ -141,3 +141,9 @@ D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\bin
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmUser.resources
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmDoimatkhau.resources
 D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmDoiPassword.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmOrder.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmOrderManage.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmPayments.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmPaymentsManage.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmPrice.resources
+D:\MY-LIENTHONG\LaptrinhCSDL\Quanlybanquanao\Quanlybanquanao\BANHANG\BANHANG\obj\x86\Debug\BANHANG.frmPriceType.resources

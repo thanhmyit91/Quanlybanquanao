@@ -77,11 +77,15 @@
     <Compile Include="frmCustomer.designer.cs">
       <DependentUpon>frmCustomer.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDoimatkhau.cs" />
+    <Compile Include="frmDoimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmDoimatkhau.designer.cs">
       <DependentUpon>frmDoimatkhau.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDoiPassword.cs" />
+    <Compile Include="frmDoiPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmDoiPassword.designer.cs">
       <DependentUpon>frmDoiPassword.cs</DependentUpon>
     </Compile>
@@ -102,6 +106,30 @@
     </Compile>
     <Compile Include="frmModel.designer.cs">
       <DependentUpon>frmModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrder.cs" />
+    <Compile Include="frmOrder.designer.cs">
+      <DependentUpon>frmOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrderManage.cs" />
+    <Compile Include="frmOrderManage.designer.cs">
+      <DependentUpon>frmOrderManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayments.cs" />
+    <Compile Include="frmPayments.designer.cs">
+      <DependentUpon>frmPayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaymentsManage.cs" />
+    <Compile Include="frmPaymentsManage.designer.cs">
+      <DependentUpon>frmPaymentsManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrice.cs" />
+    <Compile Include="frmPrice.designer.cs">
+      <DependentUpon>frmPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPriceType.cs" />
+    <Compile Include="frmPriceType.designer.cs">
+      <DependentUpon>frmPriceType.cs</DependentUpon>
     </Compile>
     <Compile Include="frmProduct.cs">
       <SubType>Form</SubType>
@@ -148,6 +176,24 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmModel.resx">
       <DependentUpon>frmModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrder.resx">
+      <DependentUpon>frmOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrderManage.resx">
+      <DependentUpon>frmOrderManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayments.resx">
+      <DependentUpon>frmPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaymentsManage.resx">
+      <DependentUpon>frmPaymentsManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrice.resx">
+      <DependentUpon>frmPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPriceType.resx">
+      <DependentUpon>frmPriceType.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmProduct.resx">
       <DependentUpon>frmProduct.cs</DependentUpon>
